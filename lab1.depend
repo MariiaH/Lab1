@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1543333064 source:d:\projects\temp\masha\lab1__\lab1\main.cpp
+	"ListLinked.h"
+	"ListArray.h"
+	"ListLibrary.h"
+	"CyclicListLinked.h"
+	<list>
+
+1542800274 d:\projects\temp\masha\lab1__\lab1\listlinked.h
+	"BaseList.h"
+
+1542800348 d:\projects\temp\masha\lab1__\lab1\baselist.h
+	<iostream>
+	<vector>
+	<string>
+
+1542800274 d:\projects\temp\masha\lab1__\lab1\listarray.h
+	"BaseList.h"
+
+1542800753 d:\projects\temp\masha\lab1__\lab1\listlibrary.h
+	<list>
+	"BaseList.h"
+
+1542800851 d:\projects\temp\masha\lab1__\lab1\cycliclistlinked.h
+	"ListLinked.h"
+
+1543040194 source:d:\projects\temp\masha\lab1__\lab1\pentagon.cpp
+	"Pentagon.h"
+
+1543040194 d:\projects\temp\masha\lab1__\lab1\pentagon.h
+	"Polygon.h"
+
+1543040194 d:\projects\temp\masha\lab1__\lab1\polygon.h
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+	<random>
+
+1543040194 source:d:\projects\temp\masha\lab1__\lab1\polygon.cpp
+	"Polygon.h"
+
+1543040194 source:d:\projects\temp\masha\lab1__\lab1\tetragon.cpp
+	"Tetragon.h"
+
+1543040194 d:\projects\temp\masha\lab1__\lab1\tetragon.h
+	"Polygon.h"
+
+1543040194 source:d:\projects\temp\masha\lab1__\lab1\triangle.cpp
+	"Triangle.h"
+
+1543040194 d:\projects\temp\masha\lab1__\lab1\triangle.h
+	"Polygon.h"
+
